@@ -1,1 +1,1 @@
-web: voila Grensoverschrijdende_zorgkosten_Voila.ipynb
+web: voila --port=$PORT --no-browser Grensoverschrijdende_zorgkosten_Voila.ipynb
