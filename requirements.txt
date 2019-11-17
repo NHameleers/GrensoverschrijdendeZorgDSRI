@@ -1,0 +1,9 @@
+ipympl
+ipywidgets
+voila
+geopandas
+matplotlib
+numpy
+pandas
+mapclassify
+descartes
